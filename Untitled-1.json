@@ -1,5 +1,5 @@
 {
-  "prompt": "A realistic scene of a student studying with hundreds of books stacked around them, each book representing training data, the student intensely memorizing every detail, overwhelmed, with no ability to generalize beyond the books, photorealistic, no text, no labels",
+  "prompt": "A realistic scene of a student sitting at a desk surrounded by towering stacks of books, intensely memorizing every page, overwhelmed, unable to think beyond what is written, photorealistic, no text, no labels",
   "model": "DALL·E 3",
   "concept": "overfitting",
   "metaphor": "A student memorizing every book perfectly but unable to answer new questions represents overfitting."
